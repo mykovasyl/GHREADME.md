@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mykovasyl@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18WT-m5jxftTITUp7bLtUiu5NzIaLLWu1/edit?usp=sharing&ouid=109252201698061830555&rtpof=true&sd=true](https://docs.google.com/document/d/18WT-m5jxftTITUp7bLtUiu5NzIaLLWu1/edit?usp=sharing&ouid=109252201698061830555&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18WT-m5jxftTITUp7bLtUiu5NzIaLLWu1/edit?usp=sharing&ouid=109252201698061830555&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
