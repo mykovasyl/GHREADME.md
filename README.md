@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mykola Vasyl'yev</h1>
+<h1 align="center">Hi 👋
+ I'm Mykola Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer from Long Island!</h3>
 
 - 🔭 I’m currently working on [booka](https://github.com/mykovasyl/booka)
