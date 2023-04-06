@@ -2,11 +2,11 @@
  I'm Mykola Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer from Long Island!</h3>
 
-- 🔭 I’m currently working on [booka](https://github.com/mykovasyl/booka)
+- 🔭 I’m currently working on [Tutor Plus](https://github.com/mykovasyl/phase-5-tutor-plus-project)
 
 - 🌱 I’m currently learning **AWS, Web Accessibility**
 
-- ➡️ My next project is [Tutor Plus](https://github.com/mykovasyl/phase-5-tutor-plus-project)
+- ➡️ My next project is finding an entry level job!
 
 - 💬 Ask me about **my 7 pets! 🐶🐶🐶🐱🐱🐹🦜**
 
