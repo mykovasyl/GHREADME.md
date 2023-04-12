@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Tutor Plus](https://github.com/mykovasyl/phase-5-tutor-plus-project)
 
-- 🌱 I’m currently learning **AWS, Web Accessibility**
+- 🌱 I’m currently learning **AWS, Web Accessibility, Python**
 
 - ➡️ My next project is finding an entry level job!
 
