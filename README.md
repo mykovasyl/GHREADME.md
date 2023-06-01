@@ -2,11 +2,13 @@
  I'm Mykola Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer from Long Island!</h3>
 
-- 🔭 I’m currently working on [Tutor Plus](https://github.com/mykovasyl/tutor-plus-rails-7)
+- 🔭 I’m currently working on AWS Cloud Practitioner Certification
 
-- 🌱 I’m currently learning **AWS, Web Accessibility, Python**
+- 🌱 I’m currently learning **Web Accessibility, Python**
 
-- ➡️ My next project is finding an entry level job!
+- 🏗️ My flagship projects are [Tutor Plus](https://github.com/mykovasyl/tutor-plus-rails-7) and [booka](https://github.com/mykovasyl/booka)
+
+- 🔜 My next project is finding an entry level job!
 
 - 💬 Ask me about **my 7 pets! 🐶🐶🐶🐱🐱🐹🦜**
 
