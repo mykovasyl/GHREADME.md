@@ -2,7 +2,7 @@
  I'm Mykola Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer from Long Island!</h3>
 
-- 🔭 I’m currently working on [Tutor Plus]([https://github.com/mykovasyl/phase-5-tutor-plus-project](https://github.com/mykovasyl/tutor-plus-rails-7))
+- 🔭 I’m currently working on [Tutor Plus](https://github.com/mykovasyl/tutor-plus-rails-7)
 
 - 🌱 I’m currently learning **AWS, Web Accessibility, Python**
 
