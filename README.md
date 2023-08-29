@@ -2,9 +2,9 @@
  I'm Nick Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer from Long Island!</h3>
 
-- 🔭 I’m currently working on AWS Cloud Practitioner Certification
+- 🔭 I’m currently working on Greenify - a startup home efficiency SPA
 
-- 🌱 I’m currently learning **Web Accessibility, Python**
+- 🌱 I’m currently learning **AWS Cloud, Python**
 
 - 🏗️ My flagship projects are [Tutor Plus](https://github.com/mykovasyl/tutor-plus-rails-7) and [booka](https://github.com/mykovasyl/booka)
 
