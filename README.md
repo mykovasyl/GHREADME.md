@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋
  I'm Nick Vasyl'yev</h1>
-<h3 align="center">A passionate full-stack developer from Long Island!</h3>
+<h3 align="center">A passionate full-stack developer!</h3>
 
 - 🔭 I’m currently working on Greenify - a startup home efficiency SPA
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **my 7 pets! 🐶🐶🐶🐱🐱🐹🦜**
 
 - 📫 How to reach me **mykovasyl@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18WT-m5jxftTITUp7bLtUiu5NzIaLLWu1/edit?usp=sharing&ouid=109252201698061830555&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
