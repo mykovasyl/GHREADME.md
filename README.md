@@ -2,7 +2,7 @@
  I'm Nick Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer!</h3>
 
-- 🔭 I’m currently working on Greenify - a startup home efficiency SPA
+- 🔭 I’m currently working on Watch What - a social app to discover movies and TV shows with friends
 
 - 🌱 I’m currently learning **AWS Cloud, Python**
 
